@@ -1,0 +1,33 @@
+h2 {
+    color: #e75480;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.btn {
+    width: fit-content;
+    height: 20px;
+    border-radius: 20px;
+    background-color: lightblue;
+    font-weight: bold;
+    
+}
+
+.btn-primary {
+    color:#ab2e53;
+    height: 35px;
+    font-size: 10px;
+    border-color: #e75480;
+}
+
+
+.btn-secondary {
+    background-color:darkseagreen;
+    border-color: #e75480;
+    height: 25px;
+    font-size: 10px;
+}
+
+.btn-disabled {
+    pointer-events: none;
+    filter: grayscale()
+}
