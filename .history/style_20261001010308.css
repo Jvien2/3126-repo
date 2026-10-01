@@ -1,0 +1,16 @@
+h2 {
+    color: #e75480;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.btn {
+    width: fit-content;
+    height: 20px;
+    border-radius: 20px;
+    background-color: lightblue;
+}
+
+.btn-primary {
+    color:#8c1d3e
+
+}
